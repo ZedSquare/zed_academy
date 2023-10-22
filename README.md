@@ -1,3 +1,5 @@
+[![pikjfxJ.png](https://z1.ax1x.com/2023/10/22/pikjfxJ.png)](https://imgse.com/i/pikjfxJ)
+
 # ZedAcademy
 ZedAcademy是由Zed发起的一个高等教育学习资源共享计划，是“Aspiration资料站点”计划的延续。
 
