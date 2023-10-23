@@ -5,6 +5,8 @@ ZedAcademy是由Zed发起的一个高等教育学习资源共享计划，是“A
 
 本人将在这里不定期分享学习资源，望与诸君共勉。
 
+要访问近期的更新记录，请查看[update_log.md](https://github.com/ZedSquare/zed_academy/blob/main/update_log.md)。
+
 -----
 
 # 如何寻找资源
