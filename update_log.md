@@ -19,6 +19,8 @@
   - 第四讲 中国的外交制度 （补完）
 - 更新了 **中美关系与亚洲的崛起** 的笔记（./course/major/）
   - 第四讲 国内政治与中美关系
+- 更新了lecture的资源目录（./lecture/readme.md）
+  - 新增了 **[R][A]Japan's Grand Strategy: A Historical Institutionalist Perspective from Meiji to Reiwa**
 
 ### 2025.10.19
 
