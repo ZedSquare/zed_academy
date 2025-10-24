@@ -27,3 +27,5 @@
 2025.3.21 **[R][A]** 日本型政党政治的幻灭——观念政治视角下的世界与日本
 
 2025.5.13 **[R]** 特朗普2.0：中美俄关系展望
+
+2025.10.24 **[R][A]** Japan's Grand Strategy: A Historical Institutionalist Perspective from Meiji to Reiwa
