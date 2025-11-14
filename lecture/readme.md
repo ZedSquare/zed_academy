@@ -29,3 +29,5 @@
 2025.5.13 **[R]** 特朗普2.0：中美俄关系展望
 
 2025.10.24 **[R][A]** Japan's Grand Strategy: A Historical Institutionalist Perspective from Meiji to Reiwa
+
+2025.11.7 **[R][A]** 以日为鉴：从“失落的三十年”后看日本政治、经济变化对社会的影响
